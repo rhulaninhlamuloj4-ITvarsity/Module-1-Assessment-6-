@@ -1,0 +1,40 @@
+h1{
+    color: plum ;
+    font-family: cursive;
+    font-size: 60px;
+    text-align: center;
+}
+h2{
+    color: pink;
+    font-family: fantasy;
+    font-size: 40px;
+    text-align: left;
+}
+p{
+    font-weight: bold;
+    text-decoration: inherit;
+    text-align-last: center
+}
+table{
+    font-family: inherit;
+    border-collapse: collapse;
+    border-width: thick;
+    border-style: solid;
+    border-color: skyblue;
+    
+}
+tr.alt td{
+    font-weight: 800;
+    background-color:blueviolet;
+    color: lightgray;
+}
+a{
+    font-family: Helvetica, sans-serif;
+    text-decoration: none;
+    background-color: pink;
+    padding: 5px;
+}
+a:hover{
+    background-color: deeppink;
+    
+}
